@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.laur.unequal",
+    "sha256_cert_fingerprints":
+    ["BA:CE:96:DC:1A:3C:71:F1:3B:B9:6F:6D:1F:B4:91:EE:80:D3:6B:EB:2D:01:94:B0:74:C4:D2:F5:0C:EE:E7:53"]
+  }
+}]
